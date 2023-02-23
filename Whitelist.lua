@@ -1,1 +1,5 @@
-
+return {
+  ["TheBadBaconEver"] = {
+    123
+  }
+}
