@@ -1,5 +1,5 @@
 return {
-  ["TheBadBaconEver"] = {
-    ["HWID"] = 123
+  ["YourMom"] = {
+    ["HWID"] = 1580
   },
 }
