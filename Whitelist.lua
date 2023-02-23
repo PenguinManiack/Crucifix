@@ -1,5 +1,7 @@
-return {
+local Whitelist = {
   ["TheBadBaconEver"] = {
-    123
-  }
+    ["HWID"] = 123
+  },
 }
+
+return Whitelist
